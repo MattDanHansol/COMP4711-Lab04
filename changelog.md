@@ -28,3 +28,6 @@ Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdo
 ##Added
 - Added echo/Must controller.
 
+###2017-09-28 2:24PM
+##Added
+- Added route for show.
