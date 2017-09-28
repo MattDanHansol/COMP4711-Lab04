@@ -6,3 +6,8 @@ Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdo
 ###2017-09-28 1:30PM
 ##Added
 - Added Able controller.
+
+###2017-09-28 1:39PM
+##Added
+- Added Tango controller.
+- Remapped routing to foxtrot.
