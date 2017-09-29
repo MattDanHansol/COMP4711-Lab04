@@ -44,3 +44,8 @@ Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdo
 ##Added
 - Added Golf controller.
 - Added .* instead of :any as a routing rule to Golf controller.
+
+###2017-09-29 10:40AM
+##Added
+- Added callback function routing rule for "bananas".
+- Didn't specifiy any function parameters for callback function, as errors were occurring.
