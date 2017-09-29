@@ -49,3 +49,7 @@ Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdo
 ##Added
 - Added callback function routing rule for "bananas".
 - Didn't specifiy any function parameters for callback function, as errors were occurring.
+
+###2017-09-29 1:30PM
+##Fixed
+- Fixed callback routing rule for Hotel to Golf controller.
